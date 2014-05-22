@@ -45,3 +45,5 @@ end
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+# Paginater gem from rubydoc.info
+gem 'will_paginate', '~> 3.0.5'
