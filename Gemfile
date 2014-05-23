@@ -47,3 +47,6 @@ end
 
 # Paginater gem from rubydoc.info
 gem 'will_paginate', '~> 3.0.5'
+
+# Simple post form 
+gem 'simple_form'

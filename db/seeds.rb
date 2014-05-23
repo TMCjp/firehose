@@ -28,4 +28,4 @@ Place.create(:name => 'Maryanns', :address => '10 Sawyer Rd, Northboro', :descri
 Place.create(:name => 'Chuck', :address => '9 Sawyer Rd, Northboro', :description => 'beer')
 Place.create(:name => 'Mary', :address => '9 Sawyer Rd, Northboro', :description => 'pot pie')
 Place.create(:name => 'Laurens', :address => '9 Sawyer Rd, Northboro', :description => 'fries')
-
+Place.create(:name => 'Brads', :address => '5 Sawyer Rd, Northboro', :description => 'pot')
