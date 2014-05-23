@@ -50,3 +50,6 @@ gem 'will_paginate', '~> 3.0.5'
 
 # Simple post form 
 gem 'simple_form'
+
+# Devise is a flexible authentication solution for Rails based on Warden
+gem 'devise'
