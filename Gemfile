@@ -53,3 +53,9 @@ gem 'simple_form'
 
 # Devise is a flexible authentication solution for Rails based on Warden
 gem 'devise'
+
+# geocoder for mapping
+gem "geocoder"
+
+# gem for storing ENVs
+gem "figaro"
